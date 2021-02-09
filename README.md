@@ -11,6 +11,7 @@ now after installing dependencies for running the app use "npm start"
 
 ## Project Structure
 ### Backend
+Our backend is built on top of express.js
 The backend follows standard Models, View, and Controller Architecture here. For that we have a diagram briefly explaining about these things.
 
 ![MVC structure](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes/mvc_express.png)
@@ -22,5 +23,7 @@ The backend follows standard Models, View, and Controller Architecture here. For
 
 ### Backend Folder Tree
 ![backend folder structure](https://github.com/arpitcodes/E-Commerce-Web-App/blob/main/img/backend_tree.png)
+### Frontend
+The frontend or the user interface is created in the React.js Library of JavaScript. Currently, ReactJS gaining quick popularity as the best JavaScript framework among web developers.
 ### Frontend Folder Tree
 ![frontend folder structure](https://github.com/arpitcodes/E-Commerce-Web-App/blob/main/img/frontend_tree.png)
